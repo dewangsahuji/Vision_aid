@@ -1,0 +1,22 @@
+{
+  "files.autoSave": "afterDelay",
+    
+  "python.pythonPath": "C:\\ProgramData\\anaconda3\\envs\\vision",
+  "python.analysis.typeCheckingMode": "basic",
+  "terminal.integrated.defaultProfile.windows": "Command Prompt",
+  
+  "code-runner.executorMap": {
+    "python": "python -u"
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
